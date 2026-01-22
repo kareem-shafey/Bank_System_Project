@@ -1,0 +1,5 @@
+﻿  Bank_System.cpp
+C:\Users\DELL\Desktop\Bank_System\Bank_System\Bank_System.cpp(62,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\Bank_System\Bank_System\Bank_System.cpp(397,1): warning C4715: 'DeleteClientData': not all control paths return a value
+C:\Users\DELL\Desktop\Bank_System\Bank_System\Bank_System.cpp(444,1): warning C4715: 'UpdateClientData': not all control paths return a value
+  Bank_System.vcxproj -> C:\Users\DELL\Desktop\Bank_System\Bank_System\x64\Debug\Bank_System.exe
